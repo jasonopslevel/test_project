@@ -10,6 +10,7 @@ service:
   framework:
   description: test
   aliases:
+   - test_project
   tags: 
   repositories:
   tools:
