@@ -8,10 +8,10 @@ service:
   owner:
   language:
   framework:
-  description:
+  description: test
   aliases:
    - test_project
-  tags:
+  tags: 
   repositories:
   tools:
   dependencies:
