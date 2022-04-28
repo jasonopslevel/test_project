@@ -1,5 +1,5 @@
 {
-  "ra": {:hex, :ra, "1.0.5", "asdf", [:mix]},
+  "rexbug": {:hex, :rexbug, "1.0.5", "asdf", [:mix]},
   "saxy": {:hex, :saxy, "1.0.5", "asdf", [:mix]},
   "sentry": {:hex, :sentry, "1.0.5", "asdf", [:mix]}
 }
